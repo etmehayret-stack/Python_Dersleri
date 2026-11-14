@@ -1,8 +1,8 @@
-# kodasistanim
+# Python dersleri
 
 **Proje Yazarı:** Hayrettin ÇELİK.
 
-# Projenin Adı: Kod-Asistan v0.1
+# Projenin Adı: ders v0.1
 
 ## Projenin Amacı
 
