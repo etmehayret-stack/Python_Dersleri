@@ -1,9 +1,15 @@
-# Python dersleri
+<h1 align="center">
+  
+  Python Dersleri</h1>
 
+<p align="center">
+  Python programlama dilini adım adım öğrenmek için hazırlanan ders arşivi.
+</p>  
 <p align="center">
   <img src="Python_logo.png" width="200">
 </p>
 
+# <div align="center">
 **Proje Yazarı:** Hayrettin ÇELİK.
 
 # Projenin Adı: ders v0.1
@@ -38,7 +44,7 @@ Program, kullanıcıdan isim bilgisi alarak kişiselleştirilmiş bir selamlama 
 
 
 
-
+</div>
 
 
 
