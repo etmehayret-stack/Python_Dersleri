@@ -17,11 +17,11 @@ Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak
 
 ## Projenin Kapsamı
 
-Proje kapsamında, sensörlerden alınan su seviyesi verilerinin belirlenen kritik eşik değeriyle karşılaştırılması amaçlanmaktadır. 
-Sistem, başlangıçta saati 1 olarak belirler ve su seviyesini her ölçüm adımında kontrol eder. 
-Su seviyesi 50 değerini aştığında tahliye kapakları açılır, tahliye saati ve kritik su seviyesi ekrana yazdırılır ve kontrol döngüsü sonlandırılır. 
-Su seviyesi 50 değerini aşmadığında tahliye kapakları kapalı tutulur, saat bir artırılır ve ölçüm işlemine devam edilir. 
-Böylece sistemin belirlenen koşullara göre otomatik karar vermesi sağlanır.
+## Projenin Kapsamı
+
+Projenin ilk sürümünde (v0.1), kullanıcıyı karşılayan ve temel matematiksel işlemleri gerçekleştirebilen basit bir dijital asistan geliştirilmesi hedeflenmektedir.
+Program, kullanıcıdan isim bilgisi alarak kişiselleştirilmiş bir selamlama yapacak ve toplama, çıkarma, çarpma ve bölme gibi temel matematiksel işlemleri gerçekleştirecektir.
+İlerleyen sürümlerde kullanıcıya menü seçenekleri sunulması, kullanıcı verilerinin saklanması ve doğal dil işleme özelliklerinin geliştirilmesi planlanmaktadır.
 
 ## Kaynakça
 
