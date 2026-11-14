@@ -23,6 +23,21 @@ Projenin ilk sürümünde (v0.1), kullanıcıyı karşılayan ve temel matematik
 Program, kullanıcıdan isim bilgisi alarak kişiselleştirilmiş bir selamlama yapacak ve toplama, çıkarma, çarpma ve bölme gibi temel matematiksel işlemleri gerçekleştirecektir.
 İlerleyen sürümlerde kullanıcıya menü seçenekleri sunulması, kullanıcı verilerinin saklanması ve doğal dil işleme özelliklerinin geliştirilmesi planlanmaktadır.
 
+## 📚 Ders İçerikleri
+
+- [01 - Değişkenler](01_Degiskenler/)
+- [02 - Veri Tipleri](02_Veri_Tipleri/)
+- [03 - Karakter Ksıtlamaları](03_Karakter_Kisitlamalari/)
+- [04 - for_döngüsü](04_for_döngüsü/)
+- [05 - if_elif_else](05_if_elif_else/)
+- [06 - Listeler](06_listeler/)
+
+
+
+
+
+
+
 ## Kaynakça
 
 1. Millî Eğitim Bakanlığı, Programlama Temelleri Ders Kitabı, ilgili öğrenme birimi.
