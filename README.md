@@ -1,7 +1,7 @@
 # Python dersleri
 
 <p align="center">
-  <img src="HTTPS://www.Python.org/static/Topluluk_logos/Python-logo.png" width="200">
+  <img src="Python_logo.png" width="200">
 </p>
 
 **Proje Yazarı:** Hayrettin ÇELİK.
