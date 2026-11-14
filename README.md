@@ -1,5 +1,9 @@
 # Python dersleri
 
+<p align="center">
+  <img src="HTTPS://www.Python.org/static/Topluluk_logos/Python-logo.png" width="200">
+</p>
+
 **Proje Yazarı:** Hayrettin ÇELİK.
 
 # Projenin Adı: ders v0.1
