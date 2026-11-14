@@ -1,3 +1,4 @@
 ## 📚 Ders İçerikleri
 
-- [Görsel](for_dongusu.png/)
+- [Görsel](gorseller/for_dongusu.png)
+04_for_döngüsü/gorseller/for_dongusu.png
