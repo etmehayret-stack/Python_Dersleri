@@ -30,7 +30,7 @@ Program, kullanıcıdan isim bilgisi alarak kişiselleştirilmiş bir selamlama 
 - [03 - Karakter Ksıtlamaları](03_Karakter_Kisitlamalari/)
 - [04 - for_döngüsü](04_for_döngüsü/)
 - [05 - if_elif_else](05_if_elif_else/)
-- [06 - Listeler](06_listeler/)
+- [06 - Listeler](06_Listeler/)
 
 
 
